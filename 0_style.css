@@ -1,0 +1,17 @@
+body{
+    background-color: #313131;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-size: 44px;
+    text-align: center;
+    color: aliceblue
+    
+    ;
+}
+
+/* .content{
+    color: aliceblue;
+    text-align: center;
+} */
