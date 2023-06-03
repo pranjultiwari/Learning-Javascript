@@ -20,4 +20,5 @@ function sigmaMale()
 //variable declarations are scanned and made undefined.
 
 console.log(bill);
+console.log(bill);
 var bill= 100;
