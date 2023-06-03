@@ -9,6 +9,7 @@
 
     function initialize2()
     {
+        
         console.log("This is line number 10 " + myName );
     }
  }
